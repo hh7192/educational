@@ -1,0 +1,17 @@
+{
+  "name": "project3-education-multipage-site-raw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bundler": "^0.8.0",
+    "cssnano": "^4.1.11",
+    "parcel": "^2.5.0"
+  }
+}
